@@ -147,7 +147,7 @@ header .nv ul li a:hover{
     color: #eee;
     padding: 0. 5rem;
 }
-.Experience h3{
+.Experience .Row .det h3 span{
     font-size: 2rem;
     color: #eee;
     padding: 1rem 0;
